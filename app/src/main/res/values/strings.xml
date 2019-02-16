@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Countdown</string>
+    <string name="erika_arrive">Time until Erika arrives:</string>
+    <string name="erika_is_here">ERIKA IS HERE!</string>
+</resources>
