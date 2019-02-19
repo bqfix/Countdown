@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
     fun initializeTime() {
         //Set ERIKA_ARRIVAL_CALENDAR to correct date
-        ERIKA_ARRIVAL_CALENDAR.set(2019, 2, 4, 3, 30)
+        ERIKA_ARRIVAL_CALENDAR.set(2019, Calendar.MARCH, 4, 15, 30)
         //Get Millis
         val arrivalTimeInMillis = ERIKA_ARRIVAL_CALENDAR.timeInMillis
         val currentTimeInMillis = CURRENT_TIME.timeInMillis
